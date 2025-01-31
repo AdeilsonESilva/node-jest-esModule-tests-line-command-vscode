@@ -1,0 +1,6 @@
+{
+  "jestrunner.jestCommand": "npm test",
+  "jestrunner.debugOptions": {
+    "program": "../../node_modules/jest/bin/jest.js"
+  }
+}
