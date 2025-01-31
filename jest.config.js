@@ -1,7 +1,5 @@
 export default {
   testEnvironment: "node",
-  transform: {
-    "^.+\\.js$": "babel-jest",
-  },
+  transform: {},
   verbose: true,
 };
